@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb02/JavaWeb02.iml" filepath="$PROJECT_DIR$/JavaWeb02/JavaWeb02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module01/Module01.iml" filepath="$PROJECT_DIR$/Module01/Module01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTest/MyTest.iml" filepath="$PROJECT_DIR$/MyTest/MyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReView/ReView.iml" filepath="$PROJECT_DIR$/ReView/ReView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" filepath="$PROJECT_DIR$/StaticWeb01/StaticWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-commons/atcrowdfunding-commons.iml" filepath="$PROJECT_DIR$/atcrowdfunding-commons/atcrowdfunding-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-manager/atcrowdfunding-manager.iml" filepath="$PROJECT_DIR$/atcrowdfunding-manager/atcrowdfunding-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-parent/atcrowdfunding-parent.iml" filepath="$PROJECT_DIR$/atcrowdfunding-parent/atcrowdfunding-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-portal/atcrowdfunding-portal.iml" filepath="$PROJECT_DIR$/atcrowdfunding-portal/atcrowdfunding-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-web/atcrowdfunding-web.iml" filepath="$PROJECT_DIR$/atcrowdfunding-web/atcrowdfunding-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project01.iml" filepath="$PROJECT_DIR$/project01.iml" />
+    </modules>
+  </component>
+</project>
